@@ -18,7 +18,7 @@ const Counter = () => {
          counter = counter - 1;
          setCounter(counter)
         }else if (counter === 0) {
-         alert("It's maximium number")
+         alert("You go down zero")
         }
      }
 
